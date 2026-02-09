@@ -22,7 +22,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
-            dpkg-dev apt-utils gzip xz-utils zstd
+            dpkg-dev apt-utils gzip xz-utils zstd bzip2
 
       - name: Build repo index
         run: |
@@ -38,9 +38,20 @@ jobs:
           cd public
           dpkg-scanpackages -m debs /dev/null > Packages
           gzip -9c Packages > Packages.gz
+          bzip2 -9c Packages > Packages.bz2
           xz -9c Packages > Packages.xz
           zstd -q -19 -c Packages > Packages.zst
-          apt-ftparchive release . > Release
+          {
+            echo "Origin: CShop Devkit";
+            echo "Label: CShop Devkit";
+            echo "Suite: stable";
+            echo "Version: 0.1";
+            echo "Codename: stable";
+            echo "Architectures: iphoneos-arm64";
+            echo "Components: main";
+            echo "Description: CShop Devkit APT repo (GitHub Pages).";
+            apt-ftparchive release .;
+          } > Release
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
@@ -49,4 +60,3 @@ jobs:
           publish_dir: public
           publish_branch: gh-pages
           force_orphan: true
-
