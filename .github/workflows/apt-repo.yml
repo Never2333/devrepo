@@ -44,11 +44,6 @@ jobs:
           {
             echo "Origin: CShop Devkit";
             echo "Label: CShop Devkit";
-            echo "Suite: stable";
-            echo "Version: 0.1";
-            echo "Codename: stable";
-            echo "Architectures: iphoneos-arm64";
-            echo "Components: main";
             echo "Description: CShop Devkit APT repo (GitHub Pages).";
             apt-ftparchive release .;
           } > Release
