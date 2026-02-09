@@ -1,0 +1,16 @@
+Package: com.kair.devkit.cshop
+Version: 0.1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: devkit
+Installed-Size: 160
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.kair.devkit.cshop_0.1.1-1+debug_iphoneos-arm.deb
+Size: 11542
+MD5sum: a0cf0d8cb87ce4a74f2998ccd7199070
+SHA1: 5c04f28da29e2651e0ed1d6932d5af83fc9dfa87
+SHA256: 66a04d49afef3a808a838c2aa1e77cbcbae6986e88ffff7fe41761a5a79952d4
+Section: Tweaks
+Description: Devkit overlay for convenience (Money/KPoint/Idea).
+Author: devkit
+Name: CShop Devkit
+
