@@ -1,0 +1,80 @@
+Package: com.kair.devkit.cshop
+Version: 0.1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: devkit
+Installed-Size: 160
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.kair.devkit.cshop_0.1.1-1+debug_iphoneos-arm.deb
+Size: 11542
+MD5sum: a0cf0d8cb87ce4a74f2998ccd7199070
+SHA1: 5c04f28da29e2651e0ed1d6932d5af83fc9dfa87
+SHA256: 66a04d49afef3a808a838c2aa1e77cbcbae6986e88ffff7fe41761a5a79952d4
+Section: Tweaks
+Description: Devkit overlay for convenience (Money/KPoint/Idea).
+Author: devkit
+Name: CShop Devkit
+
+Package: com.molenext.domainhook
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: molenext
+Installed-Size: 124
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.molenext.domainhook_0.1.3_iphoneos-arm.deb
+Size: 14106
+MD5sum: cf64431050be935eed4172bc3c4127b8
+SHA1: b15ea51f044632255fd5f62a3fce69bc2d12ab73
+SHA256: 29f06b75b88aff2f32bc05b371e9d41c8258ff4ef4e4eae34ade3fd7b5a50bf1
+Section: Tweaks
+Description: Rewrite iMole taomee requests to your own base domain (legacy build).
+Author: molenext
+Name: Mole Hook (Legacy)
+
+Package: com.molenext.domainhook
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: molenext
+Installed-Size: 140
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.molenext.domainhook_0.1.4_iphoneos-arm.deb
+Size: 18144
+MD5sum: 4c494a535533063e4ff554fb3b4f3346
+SHA1: 87ece8e8319a9b6eca2c65f59e13fcb55878946f
+SHA256: 8d6ac0b3a80efc9689a5eced1883ce21f3d2b9cc11003975ea4ef7b18e1d4c33
+Section: Tweaks
+Description: Rewrite iMole taomee requests to your own base domain (legacy build).
+Author: molenext
+Name: Mole Hook (Legacy)
+
+Package: com.molenext.domainhook.modern
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: molenext
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.molenext.domainhook.modern_0.1.3_iphoneos-arm.deb
+Size: 28244
+MD5sum: 67f66add52b42d92040ade8e76346678
+SHA1: 8a2fdf720158e2f8f0b1bbec32db64c5cf3cca32
+SHA256: 398652ecee55c823f4b877440c20144b45a03a0f495546cf9dd29525cdc3cfc6
+Section: Tweaks
+Description: Rewrite iMole taomee requests to your own base domain (modern build with Settings bundle).
+Author: molenext
+Name: Mole Hook (Modern)
+
+Package: com.molenext.domainhook.modern
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: molenext
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.molenext.domainhook.modern_0.1.4_iphoneos-arm.deb
+Size: 37762
+MD5sum: 5511445e323fe8a3ddbc8a61f84ae4bc
+SHA1: dd6a6b86122f19e29ae6a9d55cf7f1b492204da9
+SHA256: 33d6567db40aba63b918aab85bcd6896782d0b53c22af15e75a81364ebfa710c
+Section: Tweaks
+Description: Rewrite iMole taomee requests to your own base domain (modern build with Settings bundle).
+Author: molenext
+Name: Mole Hook (Modern)
+

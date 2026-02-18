@@ -1,0 +1,32 @@
+Origin: CShop Devkit
+Label: CShop Devkit
+Description: CShop Devkit APT repo (GitHub Pages).
+Date: Wed, 18 Feb 2026 22:39:15 +0000
+MD5Sum:
+ 5f94e451ed8f2e0e1d2ffdfb277c6d16             2734 Packages
+ 879f3ccc77a0805d1460e1c1867fcdf9             1109 Packages.bz2
+ 96c14e85a42dedb05b82a8b481e5e482              954 Packages.gz
+ 431fd52959de6d2229f4062f2fcdd83a              988 Packages.xz
+ 718b844ed3d7ee63bdd1fb1c404b8907              913 Packages.zst
+ 8f9d984b0248a695163115ef36ffd514              130 Release
+SHA1:
+ 14611044d9bd7ec4602d2e9e77139c5dbe20e629             2734 Packages
+ 3485f897a187934f03f588a818696f3c4696f56e             1109 Packages.bz2
+ a8715fc7e59e9ebe3765cbfe9a871eea2a87b769              954 Packages.gz
+ ee4e9e78e7ac955f40912b9310ae72c48f4ab2ea              988 Packages.xz
+ 389d784aa840dc64932ac3e8d964fd88e7df669f              913 Packages.zst
+ 58425e9b69fb595808e540d349707bbfeac67c2b              130 Release
+SHA256:
+ 7d6387e1943383133c8b3bebd24aac56fc86069dbea9d690e2be23367e3d0416             2734 Packages
+ 1b28defadd7249e2568d9b88586ed4d916ffb24262fb31bdd9f6728b0013dcda             1109 Packages.bz2
+ 298e19be6be029a813674c08c688d88e6e7424466eb9a1a9451541135f249f62              954 Packages.gz
+ 7910f5af7e20b7a7cd7b6be246fc9b64e4d9f07a19a360523e95dd9250aa7cfc              988 Packages.xz
+ 39c83de3d4185ca3989e1900e4b3432b3f4429c85bc6be027e45362a54188f90              913 Packages.zst
+ 2011f49ccba0379b9b3e1155e0bd8fa27aabe6eadfe9fb9a85534dc7914de37e              130 Release
+SHA512:
+ ad885bb4597e3b2a822fd46d5f6e57e41de50b3e4c900c5d3c767c9692d3772e44e50afbcc560b840818297d651058335c8a3e6a85fa0a1ae070318f15726262             2734 Packages
+ 765f041439eb5f48be7c43b05dc2db21a4d0e0dd101e681a8311f0d93aa2ce24cb2be666699c73c537c0eb58bc729390eb4c35a9621ec9d16133c1fecd40f59c             1109 Packages.bz2
+ e0e57ffdb18894e703223ffb8e25314e4fbeecf298a2debdb5fb5b062e841500d350008056346bc939c1b45b21c8a83839b6613e4792eacf4916ce8010970ff7              954 Packages.gz
+ e4b62cde7db7941efb8e00f518ffa5b6db35d29b025e754105963428fbcfef038cbf949413ef84cfec51f959b4ec32a970ecc61620396757a63f1c1e9c10129b              988 Packages.xz
+ bdde1aa21b19b8f2402eeaf96b644db895db857bfd866fdca16d03c4c2ffe3fe238757d3513d92863b35207e8df98d0451e59f46a879166511c0bf2594a28358              913 Packages.zst
+ db0fe9b753a74da0f4a5bca34e46f572c7745354eb3e0bac3bfac9c9562443fdefac46250ee851a9bb8d46036c09b27d47edd17119555c33e751e40d76be6157              130 Release
